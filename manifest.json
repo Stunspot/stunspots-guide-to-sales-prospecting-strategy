@@ -1,0 +1,223 @@
+{
+  "canon": {
+    "title": "Stunspot's Guide to Sales Prospecting Strategy",
+    "slug": "sales-prospecting-strategy",
+    "version": "1.0",
+    "date_released": "2026-06-28"
+  },
+  "corpus": {
+    "generated_at": "2026-06-28T22:43:51+00:00",
+    "source_directory_policy": "Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.",
+    "reports": [
+      {
+        "code": "A",
+        "title": "Market Systems, Organizational Change, and Demand Formation",
+        "subtitle": "",
+        "source_filename": "A. Market Systems, Organizational Change, and Demand Formation.md",
+        "source_path": "A. Market Systems, Organizational Change, and Demand Formation.md",
+        "filename": "a-market-systems-organizational-change-and-demand-formation.md",
+        "path": "knowledge-packs/by-report/a-market-systems-organizational-change-and-demand-formation.md",
+        "size_bytes": 87644
+      },
+      {
+        "code": "B",
+        "title": "Macro-Financial Constraints & Zero-Rate Arbitrage Decay",
+        "subtitle": "",
+        "source_filename": "B. Macro-Financial Constraints & Zero-Rate Arbitrage Decay.md",
+        "source_path": "B. Macro-Financial Constraints & Zero-Rate Arbitrage Decay.md",
+        "filename": "b-macro-financial-constraints-and-zero-rate-arbitrage-decay.md",
+        "path": "knowledge-packs/by-report/b-macro-financial-constraints-and-zero-rate-arbitrage-decay.md",
+        "size_bytes": 77033
+      },
+      {
+        "code": "C",
+        "title": "Signal, Evidence, and Commercial Epistemology",
+        "subtitle": "",
+        "source_filename": "C. Signal, Evidence, and Commercial Epistemology.md",
+        "source_path": "C. Signal, Evidence, and Commercial Epistemology.md",
+        "filename": "c-signal-evidence-and-commercial-epistemology.md",
+        "path": "knowledge-packs/by-report/c-signal-evidence-and-commercial-epistemology.md",
+        "size_bytes": 94250
+      },
+      {
+        "code": "D",
+        "title": "Account Reality Models and Buyer-System Mapping",
+        "subtitle": "",
+        "source_filename": "D. Account Reality Models and Buyer-System Mapping.md",
+        "source_path": "D. Account Reality Models and Buyer-System Mapping.md",
+        "filename": "d-account-reality-models-and-buyer-system-mapping.md",
+        "path": "knowledge-packs/by-report/d-account-reality-models-and-buyer-system-mapping.md",
+        "size_bytes": 185813
+      },
+      {
+        "code": "E",
+        "title": "Public Signals, Trigger Events, and Market Observation Systems",
+        "subtitle": "",
+        "source_filename": "E. Public Signals, Trigger Events, and Market Observation Systems.md",
+        "source_path": "E. Public Signals, Trigger Events, and Market Observation Systems.md",
+        "filename": "e-public-signals-trigger-events-and-market-observation-systems.md",
+        "path": "knowledge-packs/by-report/e-public-signals-trigger-events-and-market-observation-systems.md",
+        "size_bytes": 76456
+      },
+      {
+        "code": "F",
+        "title": "Signal Interpretation, Pressure Detection, and Relevance Formation",
+        "subtitle": "",
+        "source_filename": "F. Signal Interpretation, Pressure Detection, and Relevance Formation.md",
+        "source_path": "F. Signal Interpretation, Pressure Detection, and Relevance Formation.md",
+        "filename": "f-signal-interpretation-pressure-detection-and-relevance-formation.md",
+        "path": "knowledge-packs/by-report/f-signal-interpretation-pressure-detection-and-relevance-formation.md",
+        "size_bytes": 100903
+      },
+      {
+        "code": "G",
+        "title": "ICP Architecture, Segmentation Logic, and Market Prioritization",
+        "subtitle": "",
+        "source_filename": "G. ICP Architecture, Segmentation Logic, and Market Prioritization.md",
+        "source_path": "G. ICP Architecture, Segmentation Logic, and Market Prioritization.md",
+        "filename": "g-icp-architecture-segmentation-logic-and-market-prioritization.md",
+        "path": "knowledge-packs/by-report/g-icp-architecture-segmentation-logic-and-market-prioritization.md",
+        "size_bytes": 69126
+      },
+      {
+        "code": "H",
+        "title": "Buyer Psychology, Decision Economics, and Behavioral Dynamics",
+        "subtitle": "",
+        "source_filename": "H. Buyer Psychology, Decision Economics, and Behavioral Dynamics.md",
+        "source_path": "H. Buyer Psychology, Decision Economics, and Behavioral Dynamics.md",
+        "filename": "h-buyer-psychology-decision-economics-and-behavioral-dynamics.md",
+        "path": "knowledge-packs/by-report/h-buyer-psychology-decision-economics-and-behavioral-dynamics.md",
+        "size_bytes": 76989
+      },
+      {
+        "code": "I",
+        "title": "Stakeholder Cartography, Consensus Formation, and Political Navigation",
+        "subtitle": "",
+        "source_filename": "I. Stakeholder Cartography, Consensus Formation, and Political Navigation.md",
+        "source_path": "I. Stakeholder Cartography, Consensus Formation, and Political Navigation.md",
+        "filename": "i-stakeholder-cartography-consensus-formation-and-political-navigation.md",
+        "path": "knowledge-packs/by-report/i-stakeholder-cartography-consensus-formation-and-political-navigation.md",
+        "size_bytes": 80072
+      },
+      {
+        "code": "J",
+        "title": "Buyer Risk Mitigation & The Procurement Gauntlet",
+        "subtitle": "",
+        "source_filename": "J. Buyer Risk Mitigation & The Procurement Gauntlet.md",
+        "source_path": "J. Buyer Risk Mitigation & The Procurement Gauntlet.md",
+        "filename": "j-buyer-risk-mitigation-and-the-procurement-gauntlet.md",
+        "path": "knowledge-packs/by-report/j-buyer-risk-mitigation-and-the-procurement-gauntlet.md",
+        "size_bytes": 104052
+      },
+      {
+        "code": "K",
+        "title": "Message Engineering, Narrative Design, and Attention Economics",
+        "subtitle": "",
+        "source_filename": "K. Message Engineering, Narrative Design, and Attention Economics.md",
+        "source_path": "K. Message Engineering, Narrative Design, and Attention Economics.md",
+        "filename": "k-message-engineering-narrative-design-and-attention-economics.md",
+        "path": "knowledge-packs/by-report/k-message-engineering-narrative-design-and-attention-economics.md",
+        "size_bytes": 118253
+      },
+      {
+        "code": "L",
+        "title": "Prospecting Systems, Channel Strategy, and Sequence Architecture",
+        "subtitle": "",
+        "source_filename": "L. Prospecting Systems, Channel Strategy, and Sequence Architecture.md",
+        "source_path": "L. Prospecting Systems, Channel Strategy, and Sequence Architecture.md",
+        "filename": "l-prospecting-systems-channel-strategy-and-sequence-architecture.md",
+        "path": "knowledge-packs/by-report/l-prospecting-systems-channel-strategy-and-sequence-architecture.md",
+        "size_bytes": 93820
+      },
+      {
+        "code": "M",
+        "title": "Commercial Data Infrastructure, DataOps, and CRM Continuity",
+        "subtitle": "",
+        "source_filename": "M. Commercial Data Infrastructure, DataOps, and CRM Continuity.md",
+        "source_path": "M. Commercial Data Infrastructure, DataOps, and CRM Continuity.md",
+        "filename": "m-commercial-data-infrastructure-dataops-and-crm-continuity.md",
+        "path": "knowledge-packs/by-report/m-commercial-data-infrastructure-dataops-and-crm-continuity.md",
+        "size_bytes": 98302
+      },
+      {
+        "code": "N",
+        "title": "Epistemic Transfer & The AE Handoff Architecture",
+        "subtitle": "",
+        "source_filename": "N. Epistemic Transfer & The AE Handoff Architecture.md",
+        "source_path": "N. Epistemic Transfer & The AE Handoff Architecture.md",
+        "filename": "n-epistemic-transfer-and-the-ae-handoff-architecture.md",
+        "path": "knowledge-packs/by-report/n-epistemic-transfer-and-the-ae-handoff-architecture.md",
+        "size_bytes": 95717
+      },
+      {
+        "code": "O",
+        "title": "Conversion Systems, Funnel Economics, and Performance Analytics",
+        "subtitle": "",
+        "source_filename": "O. Conversion Systems, Funnel Economics, and Performance Analytics.md",
+        "source_path": "O. Conversion Systems, Funnel Economics, and Performance Analytics.md",
+        "filename": "o-conversion-systems-funnel-economics-and-performance-analytics.md",
+        "path": "knowledge-packs/by-report/o-conversion-systems-funnel-economics-and-performance-analytics.md",
+        "size_bytes": 89747
+      },
+      {
+        "code": "P",
+        "title": "Failure Modes, Prospecting Pathologies, and Commercial Intervention Strategy",
+        "subtitle": "",
+        "source_filename": "P. Failure Modes, Prospecting Pathologies, and Commercial Intervention Strategy.md",
+        "source_path": "P. Failure Modes, Prospecting Pathologies, and Commercial Intervention Strategy.md",
+        "filename": "p-failure-modes-prospecting-pathologies-and-commercial-intervention-strategy.md",
+        "path": "knowledge-packs/by-report/p-failure-modes-prospecting-pathologies-and-commercial-intervention-strategy.md",
+        "size_bytes": 135928
+      }
+    ],
+    "compiled_packs": [
+      {
+        "label": "Sales Prospecting Strategy - Vol. 1 A-D Foundations of Commercial Reality and Signal",
+        "source_filename": "[KNOWLEDGE] - Sales Prospecting Strategy - Vol. 1 A-D Foundations of Commercial Reality and Signal.md",
+        "source_path": "[KNOWLEDGE] - Sales Prospecting Strategy - Vol. 1 A-D Foundations of Commercial Reality and Signal.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-sales-prospecting-strategy-vol-1-a-d-foundations-of-commercial-reality-and-signal.md",
+        "size_bytes": 446279
+      },
+      {
+        "label": "Sales Prospecting Strategy - Vol. 2 E-G Demand-Signal Intelligence and Opportunity Discovery",
+        "source_filename": "[KNOWLEDGE] - Sales Prospecting Strategy - Vol. 2 E-G Demand-Signal Intelligence and Opportunity Discovery.md",
+        "source_path": "[KNOWLEDGE] - Sales Prospecting Strategy - Vol. 2 E-G Demand-Signal Intelligence and Opportunity Discovery.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-sales-prospecting-strategy-vol-2-e-g-demand-signal-intelligence-and-opportunity-discovery.md",
+        "size_bytes": 247703
+      },
+      {
+        "label": "Sales Prospecting Strategy - Vol. 3 H-K Buyer Navigation, Commercial Influence, and Risk Mitigation",
+        "source_filename": "[KNOWLEDGE] - Sales Prospecting Strategy - Vol. 3 H-K Buyer Navigation, Commercial Influence, and Risk Mitigation.md",
+        "source_path": "[KNOWLEDGE] - Sales Prospecting Strategy - Vol. 3 H-K Buyer Navigation, Commercial Influence, and Risk Mitigation.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-sales-prospecting-strategy-vol-3-h-k-buyer-navigation-commercial-influence-and-risk-mitigation.md",
+        "size_bytes": 380977
+      },
+      {
+        "label": "Sales Prospecting Strategy - Vol. 4 L-N Pipeline Systems, Outbound Operations, and Epistemic Transfer",
+        "source_filename": "[KNOWLEDGE] - Sales Prospecting Strategy - Vol. 4 L-N Pipeline Systems, Outbound Operations, and Epistemic Transfer.md",
+        "source_path": "[KNOWLEDGE] - Sales Prospecting Strategy - Vol. 4 L-N Pipeline Systems, Outbound Operations, and Epistemic Transfer.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-sales-prospecting-strategy-vol-4-l-n-pipeline-systems-outbound-operations-and-epistemic-transfer.md",
+        "size_bytes": 289153
+      },
+      {
+        "label": "Sales Prospecting Strategy - Vol. 5 O-P Diagnosis, Optimization, and Commercial Execution",
+        "source_filename": "[KNOWLEDGE] - Sales Prospecting Strategy - Vol. 5 O-P Diagnosis, Optimization, and Commercial Execution.md",
+        "source_path": "[KNOWLEDGE] - Sales Prospecting Strategy - Vol. 5 O-P Diagnosis, Optimization, and Commercial Execution.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-sales-prospecting-strategy-vol-5-o-p-diagnosis-optimization-and-commercial-execution.md",
+        "size_bytes": 226681
+      }
+    ],
+    "omnibus": [
+      {
+        "label": "Sales Prospecting Strategy - Omnibus",
+        "source_filename": "[KNOWLEDGE] - Sales Prospecting Strategy - Omnibus.md",
+        "source_path": "[KNOWLEDGE] - Sales Prospecting Strategy - Omnibus.md",
+        "dest_path": "knowledge-packs/omnibus/knowledge-sales-prospecting-strategy-omnibus.md",
+        "size_bytes": 1591374
+      }
+    ],
+    "unclassified": [
+      "Prospecting Strategy & Demand‑Signal Architecture Corpus.md"
+    ]
+  }
+}
