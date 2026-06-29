@@ -1,13 +1,38 @@
 {
   "canon": {
     "title": "Stunspot's Guide to Sales Prospecting Strategy",
+    "subtitle": "A model-facing canon for demand-signal architecture, buyer-system mapping, and AI/RAG prospecting reasoning.",
     "slug": "sales-prospecting-strategy",
     "version": "1.0",
-    "date_released": "2026-06-28"
+    "date_released": "2026-06-28",
+    "repository": "https://github.com/Stunspot/stunspots-guide-to-sales-prospecting-strategy",
+    "pages": "https://stunspot.github.io/stunspots-guide-to-sales-prospecting-strategy/",
+    "license": "CC BY-NC-SA 4.0",
+    "author": "Sam “stunspot” Walker",
+    "affiliation": "Collaborative Dynamics",
+    "primary_audience": "AI assistants, RAG systems, project knowledge bases, long-context workspaces, and commercial reasoning agents"
+  },
+  "positioning": {
+    "short_description": "A model-facing Advanced Knowledge Base for sales prospecting strategy, demand-signal interpretation, buyer-system mapping, evidence discipline, outbound operations, CRM/RAG continuity, and GTM failure diagnosis.",
+    "primary_use_policy": "Human-readable, but optimized primarily for AI/RAG ingestion, stable terminology, source traceability, and model reasoning.",
+    "core_premise": "Prospecting is not contact acquisition. It is the evidence-disciplined reading of organizational pressure, commercial legitimacy, buyer-system structure, risk tolerance, and timing."
+  },
+  "directory_policy": {
+    "docs": "Navigation, GitHub Pages metadata, and usage guidance.",
+    "knowledge-packs/by-report": "Individual canonical source reports.",
+    "knowledge-packs/compiled-packs": "Grouped upload packs.",
+    "knowledge-packs/omnibus": "Whole-corpus bundle.",
+    "forbidden_public_corpus_path": "docs/reports/"
   },
   "corpus": {
     "generated_at": "2026-06-28T22:43:51+00:00",
     "source_directory_policy": "Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.",
+    "counts": {
+      "source_reports": 16,
+      "compiled_packs": 5,
+      "omnibus_files": 1,
+      "unclassified_source_filenames": 1
+    },
     "reports": [
       {
         "code": "A",
@@ -217,7 +242,64 @@
       }
     ],
     "unclassified": [
-      "Prospecting Strategy & Demand‑Signal Architecture Corpus.md"
+      {
+        "source_filename": "Prospecting Strategy & Demand‑Signal Architecture Corpus.md",
+        "note": "Preserved as source metadata from the build context; not part of docs navigation."
+      }
+    ]
+  },
+  "repository_inventory": {
+    "root_files": [
+      "README.md",
+      "LICENSE.md",
+      "CITATION.cff",
+      "CHANGELOG.md",
+      "MANIFEST.md",
+      "STATUS.md",
+      "manifest.json",
+      "COPY_CONTEXT.md"
+    ],
+    "docs_files": [
+      "docs/index.md",
+      "docs/canon-map.md",
+      "docs/how-to-use-this-canon.md",
+      "docs/knowledge-packs.md",
+      "docs/_config.yml",
+      "docs/_layouts/default.html",
+      "docs/assets/css/style.css",
+      "docs/assets/brand/coldwire-bg.jpg"
+    ],
+    "knowledge_pack_directories": [
+      "knowledge-packs/by-report/",
+      "knowledge-packs/compiled-packs/",
+      "knowledge-packs/omnibus/"
+    ],
+    "placeholder_asset_references_retained": [
+      "docs/assets/brand/readme-hero.png",
+      "docs/assets/brand/pages-hero.png",
+      "docs/assets/brand/social-preview.png"
+    ]
+  },
+  "recommended_usage": {
+    "default_upload_format": "knowledge-packs/compiled-packs/",
+    "use_source_reports_for": [
+      "precise retrieval",
+      "selective upload",
+      "report-level citation",
+      "targeted editing"
+    ],
+    "use_compiled_packs_for": [
+      "AI Projects",
+      "RAG systems",
+      "NotebookLM-style tools",
+      "moderate file-count limits",
+      "general canon use"
+    ],
+    "use_omnibus_for": [
+      "one-file import",
+      "local archive",
+      "full-corpus search",
+      "strong long-context systems"
     ]
   }
 }
