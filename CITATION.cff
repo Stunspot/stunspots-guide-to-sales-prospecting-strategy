@@ -10,6 +10,10 @@ authors:
 version: "1.0"
 date-released: "2026-06-28"
 license: "CC-BY-NC-SA-4.0"
+doi: "10.5281/zenodo.21039256"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21039256"
 url: "https://stunspot.github.io/stunspots-guide-to-sales-prospecting-strategy/"
 repository-code: "https://github.com/Stunspot/stunspots-guide-to-sales-prospecting-strategy"
 abstract: "A model-facing knowledge canon for sales prospecting strategy, demand-signal architecture, buyer-system mapping, evidence discipline, outbound operations, CRM/RAG continuity, and GTM failure diagnosis."

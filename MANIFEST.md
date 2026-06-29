@@ -6,6 +6,11 @@ Release date: 2026-06-28
 Repository: https://github.com/Stunspot/stunspots-guide-to-sales-prospecting-strategy  
 Pages: https://stunspot.github.io/stunspots-guide-to-sales-prospecting-strategy/
 
+## Citation and Archive
+
+**DOI:** https://doi.org/10.5281/zenodo.21039256
+**Zenodo Record:** https://zenodo.org/records/21039256
+
 ## Public Positioning
 
 *Stunspot's Guide to Sales Prospecting Strategy* is a model-facing Advanced Knowledge Base for demand-signal architecture, buyer-system mapping, evidence discipline, outbound operations, CRM/RAG continuity, and GTM failure diagnosis.
