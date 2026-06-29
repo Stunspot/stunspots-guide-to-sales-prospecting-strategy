@@ -47,7 +47,6 @@ Use it as doctrine for AI agents, sales strategists, outbound analysts, revenue 
 - **16 source reports** in [`knowledge-packs/by-report/`](./knowledge-packs/by-report/)
 - **5 compiled packs** in [`knowledge-packs/compiled-packs/`](./knowledge-packs/compiled-packs/)
 - **1 omnibus file** in [`knowledge-packs/omnibus/`](./knowledge-packs/omnibus/)
-- **1 unclassified source filename** preserved in the manifest metadata
 
 `docs/` contains navigation, GitHub Pages scaffolding, and usage guidance. It is not the source-report corpus. Individual reports live only in `knowledge-packs/by-report/`; compiled upload bundles live in `knowledge-packs/compiled-packs/`; the whole-corpus bundle lives in `knowledge-packs/omnibus/`.
 
@@ -57,7 +56,7 @@ There is no `docs/reports/` directory.
 
 ## What This Canon Covers
 
-The canon runs from **PROSP-A** through **PROSP-P**, moving from commercial reality to execution diagnostics:
+The canon runs from report **A** through **P**, moving from commercial reality to execution diagnostics:
 
 - organizational demand formation, institutional pressure, and budget legitimacy
 - macro-financial constraints, capital discipline, and post-zero-rate sales reality
