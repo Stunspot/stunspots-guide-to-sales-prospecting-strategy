@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Stunspot's Guide to Sales Prospecting Strategy"
+title: "Stunspot's Guide to Prospecting Strategy"
 message: "If you use this canon, please cite it using this metadata."
 type: dataset
 authors:
@@ -9,21 +9,14 @@ authors:
     affiliation: "Collaborative Dynamics"
 version: "1.0"
 date-released: "2026-06-28"
-license: "CC-BY-NC-SA-4.0"
+license: "CC-BY-4.0"
 doi: "10.5281/zenodo.21039256"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21039256"
 url: "https://stunspot.github.io/stunspots-guide-to-sales-prospecting-strategy/"
 repository-code: "https://github.com/Stunspot/stunspots-guide-to-sales-prospecting-strategy"
-abstract: "A model-facing knowledge canon for sales prospecting strategy, demand-signal architecture, buyer-system mapping, evidence discipline, outbound operations, CRM/RAG continuity, and GTM failure diagnosis."
+abstract: "A model-facing knowledge canon for AI/RAG workflows."
 keywords:
-  - "sales prospecting"
-  - "demand-signal architecture"
-  - "buyer-system mapping"
-  - "commercial epistemology"
-  - "outbound strategy"
-  - "gtm strategy"
-  - "revenue operations"
+  - "knowledge-systems"
   - "rag"
-  - "ai knowledge systems"
