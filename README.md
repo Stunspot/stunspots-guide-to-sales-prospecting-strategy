@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/status-canon_release_v1-darkgreen)
 ![Source Reports](https://img.shields.io/badge/source_reports-16-blue)
 ![Compiled Packs](https://img.shields.io/badge/compiled_packs-5-blueviolet)
-![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-darkgrey)
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-darkgrey)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21039256.svg)](https://doi.org/10.5281/zenodo.21039256)
 
 A machine-readable knowledge canon by Sam “stunspot” Walker / Collaborative Dynamics.
@@ -158,7 +158,7 @@ Image references for future hero and social assets are intentionally retained ev
 
 Version: **1.0**  
 Released: **2026-06-28**  
-License: **CC BY-NC-SA 4.0**
+License: **Creative Commons Attribution 4.0 International**
 
 GitHub: https://github.com/Stunspot/stunspots-guide-to-sales-prospecting-strategy  
 Pages: https://stunspot.github.io/stunspots-guide-to-sales-prospecting-strategy/
