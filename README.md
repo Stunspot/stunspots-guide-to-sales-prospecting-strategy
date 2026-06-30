@@ -31,6 +31,10 @@ Use it as RAG substrate.
 Use it as project knowledge.  
 Use it as doctrine for AI agents, sales strategists, outbound analysts, revenue operators, and GTM builders working on evidence-backed prospecting systems.
 
+Part of the Stunspot’s Guide to… Advanced Knowledge Base Library
+Browse the full library: 
+[Gateway Repo](https://github.com/Stunspot/stunspots-guides) · [stunspot.com](stunspot.com/#guides)
+
 ---
 
 ## Start Here
