@@ -1,2 +1,18 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+* text=auto eol=lf
+
+# Windows-native text exceptions.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary containers and media.
+*.zip binary
+*.docx binary
+*.xlsx binary
+*.pptx binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
